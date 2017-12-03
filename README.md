@@ -2,4 +2,4 @@
 Impresora Delta
 -------------------------------------------------------------------
 
-<img src="gallery/IMG-20170814-WA0030" width="300" align="center">
+<img src="gallery/IMG-20170814-WA0030.jpg" width="300" align="center">
