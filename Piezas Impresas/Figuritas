@@ -1,0 +1,19 @@
+
+Lee Sin:
+
+Tamaño:                     70%
+Tiempo de impresión:        1h 51 min
+Coste de material:          4.85m/14gr/0.29€== 0.37€
+
+Soportes usados(distancia x y z): si 80 grados (1,1,0.25)
+Tipo de agarre: En todos los sitios pero limitado en algunas zonas no necesarias
+
+Densidad usada:             15%
+Velocidad de impresión:     30
+Velocidad primera capa:     15
+Velociad de desplazamiento: 90
+Número de capas lentas:     7
+Patrón de relleno:          Triángulos
+Altura de capa:             0.2
+
+Probamos velocidad de desplazmiento 90, distancia de retracción 6.5 y velocidad de retracción 30 (aumentado de 25 a 30)
