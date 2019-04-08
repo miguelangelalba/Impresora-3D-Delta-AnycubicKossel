@@ -1,22 +1,23 @@
 
+ 
 
 Patito:
 
-Tamaño:                   30%
-Tiempo de impresión:      12 min
-Coste de material:        1.31m/14gr/0.08€==
+Tamaño:                     30%
+Tiempo de impresión:        12 min
+Coste de material:          1.31m/14gr/0.08€==
 
 Soportes usados(distancia x y z): no
 Tipo de agarre:
 
-Densidad usada:           15%
-Velocidad de impresión:   60
-Velocidad primera capa:   30
-Númeroo de capas lentas:  2
-Patrón de relleno:        Triángulos
-Altura de capa:           0.3
+Densidad usada:             15%
+Velocidad de impresión:     60
+Velocidad primera capa:     30
+Velociad de desplazamiento: 90
+Número de capas lentas:     2
+Patrón de relleno:          Triángulos
+Altura de capa:             0.3
 
-
-Los calculos estimados de ccoste total se ha usado estimando un coste de 0,136278 €/kWh~= 0,14€/kWh de energía. Dado que la impresora
+Los calculos estimados de coste total se ha usado estimando un coste de 0,136278 €/kWh~= 0,14€/kWh de energía. Dado que la impresora
 tiene una potencia máxima de 360W supondremos un consumo aproximado de 0.3 KwH ya que ninguno de los elementos trabaja a máxima potencia
 y sin la cama la impresora en sí cosumiría 48W.
